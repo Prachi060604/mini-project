@@ -1,5 +1,4 @@
 // Prachi Chaturvedi (RA2311003011223)
-// Aayushman Kathayat (RA2311003011227)
 
 
 #include <stdio.h>
